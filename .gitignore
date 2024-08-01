@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+.vs
+.vscode
+.idea
+*.log
+*.log.*
+*.log-*
